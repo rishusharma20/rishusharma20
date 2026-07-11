@@ -1,12 +1,6 @@
 
 # Rishu Sharma
 
-> **Premium GitHub README (Starter Version)**
-
-> **Note:** A fully customized FAANG-style README with every requested widget,
-> collapsible section, and project card is too large to fit in a single ChatGPT
-> response. This file provides a production-ready foundation that you can use
-> immediately and continue extending.
 
 ---
 
