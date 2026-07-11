@@ -151,9 +151,7 @@ open_to:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:3B0764,40:5B21B6,70:7C3AED,100:4F46E5"/>
 
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rishusharma20/rishusharma20/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</p>
+
+
 
