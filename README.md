@@ -89,19 +89,7 @@ MERN based gym website.
 
 ---
 
-## GitHub Analytics
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rishusharma20&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rishusharma20&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishusharma20&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 ## Activity Graph
 
