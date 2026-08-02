@@ -109,9 +109,7 @@ MERN based gym website.
 
 ---
 
-## Snake
 
-![](https://raw.githubusercontent.com/rishusharma20/rishusharma20/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
