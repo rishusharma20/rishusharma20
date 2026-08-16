@@ -239,11 +239,11 @@ A wearable IoT safety device for sewer workers, combining MQ-136 (H2S), Grove EC
 
 <div align="center">
 
-![Rishu's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=030712&title_color=22D3EE&icon_color=8B5CF6&text_color=C7D2FE)
+![Rishu's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishusharma20&show_icons=true&theme=dark&hide_border=true&bg_color=030712&title_color=22D3EE&icon_color=8B5CF6&text_color=C7D2FE)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=030712&title_color=22D3EE&text_color=C7D2FE)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishusharma20&layout=compact&theme=dark&hide_border=true&bg_color=030712&title_color=22D3EE&text_color=C7D2FE)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=030712&stroke=22D3EE&ring=8B5CF6&fire=E879F9&currStreakLabel=22D3EE)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishusharma20&theme=dark&hide_border=true&background=030712&stroke=22D3EE&ring=8B5CF6&fire=E879F9&currStreakLabel=22D3EE)
 
 </div>
 
@@ -300,10 +300,10 @@ A wearable IoT safety device for sewer workers, combining MQ-136 (H2S), Grove EC
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-030712?style=for-the-badge&logo=github&logoColor=22D3EE)](YOUR_GITHUB_URL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-030712?style=for-the-badge&logo=linkedin&logoColor=4F8CFF)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-030712?style=for-the-badge&logo=firefox&logoColor=E879F9)](YOUR_PORTFOLIO_URL)
-[![Email](https://img.shields.io/badge/Email-030712?style=for-the-badge&logo=gmail&logoColor=8B5CF6)](mailto:YOUR_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-030712?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/rishusharma20)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-030712?style=for-the-badge&logo=linkedin&logoColor=4F8CFF)](https://www.linkedin.com/in/rishusharma2007/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-030712?style=for-the-badge&logo=firefox&logoColor=E879F9)](https://rishusharma.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-030712?style=for-the-badge&logo=gmail&logoColor=8B5CF6)](mailto:rishusharma.200705@gmail.com)
 
 </div>
 
