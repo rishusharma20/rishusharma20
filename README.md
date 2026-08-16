@@ -259,7 +259,6 @@ A wearable IoT safety device for sewer workers, combining MQ-136 (H2S), Grove EC
 | **Backend** | Spring Boot · Node.js · Express.js · REST APIs |
 | **Frontend** | React · Next.js · Tailwind CSS |
 | **Database** | MySQL · MongoDB · PostgreSQL · Oracle |
-| **AI / ML** | Google Gemini · Machine Learning · Random Forest · Sentence Transformers · Vector Search |
 | **Tools** | Git · GitHub · VS Code · Eclipse · Postman |
 | **Core CS** | OOP · DBMS · Operating Systems · Computer Networks · Data Structures & Algorithms |
 
