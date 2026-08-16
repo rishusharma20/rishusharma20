@@ -1,0 +1,121 @@
+<svg viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg" width="100%" role="img" aria-label="Rishu Sharma — Code Galaxy Explorer hero banner">
+  <defs>
+    <radialGradient id="bgGlow" cx="50%" cy="45%" r="75%">
+      <stop offset="0%" stop-color="#0B1230"/>
+      <stop offset="55%" stop-color="#050B1A"/>
+      <stop offset="100%" stop-color="#030712"/>
+    </radialGradient>
+    <radialGradient id="coreGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#E879F9"/>
+      <stop offset="35%" stop-color="#8B5CF6"/>
+      <stop offset="75%" stop-color="#4F8CFF"/>
+      <stop offset="100%" stop-color="#4F8CFF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="orbitStroke" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4F8CFF" stop-opacity="0.15"/>
+      <stop offset="50%" stop-color="#22D3EE" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#4F8CFF" stop-opacity="0.15"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F8FAFC"/>
+      <stop offset="60%" stop-color="#C7D2FE"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="4.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="9"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="420" fill="url(#bgGlow)"/>
+
+  <!-- starfield -->
+  <g fill="#F8FAFC">
+    <circle cx="60" cy="40" r="1.3" opacity="0.8"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="3.1s" repeatCount="indefinite"/></circle>
+    <circle cx="140" cy="120" r="1" opacity="0.6"><animate attributeName="opacity" values="0.7;0.15;0.7" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="220" cy="60" r="1.6" opacity="0.7"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.6s" repeatCount="indefinite"/></circle>
+    <circle cx="330" cy="30" r="1.1" opacity="0.5"><animate attributeName="opacity" values="0.8;0.2;0.8" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="410" cy="90" r="1.4" opacity="0.7"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="4.1s" repeatCount="indefinite"/></circle>
+    <circle cx="90" cy="220" r="1.2" opacity="0.6"><animate attributeName="opacity" values="0.6;0.1;0.6" dur="3.3s" repeatCount="indefinite"/></circle>
+    <circle cx="180" cy="330" r="1.5" opacity="0.8"><animate attributeName="opacity" values="0.3;0.95;0.3" dur="2.9s" repeatCount="indefinite"/></circle>
+    <circle cx="60" cy="380" r="1" opacity="0.5"><animate attributeName="opacity" values="0.7;0.2;0.7" dur="3.7s" repeatCount="indefinite"/></circle>
+    <circle cx="1150" cy="50" r="1.3" opacity="0.7"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="3.4s" repeatCount="indefinite"/></circle>
+    <circle cx="1080" cy="130" r="1.1" opacity="0.6"><animate attributeName="opacity" values="0.8;0.25;0.8" dur="2.6s" repeatCount="indefinite"/></circle>
+    <circle cx="1000" cy="70" r="1.6" opacity="0.8"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.9s" repeatCount="indefinite"/></circle>
+    <circle cx="1120" cy="230" r="1.2" opacity="0.6"><animate attributeName="opacity" values="0.6;0.15;0.6" dur="3.1s" repeatCount="indefinite"/></circle>
+    <circle cx="1050" cy="330" r="1.4" opacity="0.7"><animate attributeName="opacity" values="0.25;0.9;0.25" dur="4.3s" repeatCount="indefinite"/></circle>
+    <circle cx="1150" cy="380" r="1" opacity="0.5"><animate attributeName="opacity" values="0.7;0.2;0.7" dur="2.7s" repeatCount="indefinite"/></circle>
+    <circle cx="620" cy="40" r="1.1" opacity="0.5"><animate attributeName="opacity" values="0.7;0.2;0.7" dur="3.5s" repeatCount="indefinite"/></circle>
+    <circle cx="700" cy="380" r="1.2" opacity="0.6"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="3s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- shooting star -->
+  <g>
+    <line x1="-40" y1="60" x2="20" y2="90" stroke="#F8FAFC" stroke-width="2" stroke-linecap="round" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;0" keyTimes="0;0.55;0.62;0.78" dur="6s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0; 1250 340" keyTimes="0;1" dur="6s" repeatCount="indefinite"/>
+    </line>
+  </g>
+
+  <!-- orbital rings around core -->
+  <g transform="translate(230,210)">
+    <ellipse cx="0" cy="0" rx="150" ry="55" fill="none" stroke="url(#orbitStroke)" stroke-width="1.2"/>
+    <ellipse cx="0" cy="0" rx="110" ry="110" fill="none" stroke="url(#orbitStroke)" stroke-width="1" opacity="0.5" transform="rotate(30)"/>
+    <ellipse cx="0" cy="0" rx="185" ry="90" fill="none" stroke="url(#orbitStroke)" stroke-width="1" opacity="0.6" transform="rotate(-18)"/>
+
+    <circle cx="0" cy="0" r="46" fill="url(#coreGlow)" filter="url(#softGlow)"/>
+    <circle cx="0" cy="0" r="30" fill="#0B1230" stroke="#22D3EE" stroke-width="1.4" filter="url(#glow)"/>
+    <text x="0" y="7" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="15" fill="#F8FAFC" font-weight="600">&lt;/&gt;</text>
+
+    <g>
+      <circle cx="150" cy="0" r="6" fill="#4F8CFF" filter="url(#glow)"/>
+      <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="360" dur="14s" repeatCount="indefinite"/>
+    </g>
+    <g>
+      <circle cx="0" cy="0" r="4.5" fill="#E879F9" filter="url(#glow)" transform="translate(110,0)"/>
+      <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="30" to="390" dur="9s" repeatCount="indefinite"/>
+    </g>
+    <g>
+      <circle cx="0" cy="0" r="5" fill="#22D3EE" filter="url(#glow)" transform="translate(185,0)"/>
+      <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="-18" to="342" dur="19s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <!-- constellation lines behind text -->
+  <g stroke="#4F8CFF" stroke-width="0.6" opacity="0.35">
+    <line x1="480" y1="80" x2="560" y2="120"/>
+    <line x1="560" y1="120" x2="640" y2="90"/>
+    <line x1="900" y1="300" x2="960" y2="340"/>
+    <line x1="960" y1="340" x2="1030" y2="310"/>
+  </g>
+  <g fill="#22D3EE">
+    <circle cx="480" cy="80" r="1.8"/>
+    <circle cx="560" cy="120" r="1.8"/>
+    <circle cx="640" cy="90" r="1.8"/>
+    <circle cx="900" cy="300" r="1.8"/>
+    <circle cx="960" cy="340" r="1.8"/>
+    <circle cx="1030" cy="310" r="1.8"/>
+  </g>
+
+  <!-- identity text -->
+  <g font-family="Space Grotesk, Segoe UI, Helvetica, Arial, sans-serif">
+    <text x="470" y="185" font-size="46" font-weight="700" fill="url(#titleGrad)" letter-spacing="2">RISHU SHARMA</text>
+    <text x="470" y="222" font-size="15.5" fill="#94A3B8" letter-spacing="3" font-family="JetBrains Mono, Consolas, monospace">FULL STACK DEVELOPER  •  BACKEND ENGINEER  •  AI ENTHUSIAST</text>
+
+    <rect x="470" y="248" width="1" height="1" opacity="0"/>
+    <text x="470" y="262" font-size="16" fill="#C7D2FE" font-style="italic">"Exploring the universe of code, one problem at a time."</text>
+
+    <g font-family="JetBrains Mono, Consolas, monospace" font-size="12" fill="#4F8CFF" opacity="0.9">
+      <rect x="470" y="288" width="9" height="9" rx="2" fill="#22D3EE">
+        <animate attributeName="opacity" values="1;0.25;1" dur="1.8s" repeatCount="indefinite"/>
+      </rect>
+      <text x="486" y="297" fill="#94A3B8">SYSTEM STATUS: <tspan fill="#22D3EE">EXPLORING</tspan></text>
+    </g>
+  </g>
+</svg>
